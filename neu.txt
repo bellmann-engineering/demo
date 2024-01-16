@@ -3,7 +3,7 @@ guten morgen?!
 
 neue zeile
 
-if (test)
+if (test || etwas anderes)
 {
 
 
