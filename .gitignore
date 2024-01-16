@@ -1,3 +1,9 @@
+
+# all executables
 *.exe
+
+# starting with number
 [0-9]*
-[Dd]ebug/
+
+# Folder for debug files
+[Dd]ebug/ 
